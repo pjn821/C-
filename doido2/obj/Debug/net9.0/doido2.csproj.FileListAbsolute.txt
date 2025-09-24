@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.sourcelink.json
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\bin\Debug\net9.0\doido2.exe
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\bin\Debug\net9.0\doido2.deps.json
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\bin\Debug\net9.0\doido2.runtimeconfig.json
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\bin\Debug\net9.0\doido2.dll
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\bin\Debug\net9.0\doido2.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.dll
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\refint\doido2.dll
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\doido2.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\doido2\obj\Debug\net9.0\ref\doido2.dll
