@@ -12,3 +12,4 @@ C:\Users\Paulo\Desktop\Projetos\doido\doido1\obj\Debug\net9.0\refint\doido1.dll
 C:\Users\Paulo\Desktop\Projetos\doido\doido1\obj\Debug\net9.0\doido1.pdb
 C:\Users\Paulo\Desktop\Projetos\doido\doido1\obj\Debug\net9.0\doido1.genruntimeconfig.cache
 C:\Users\Paulo\Desktop\Projetos\doido\doido1\obj\Debug\net9.0\ref\doido1.dll
+C:\Users\Paulo\Desktop\Projetos\doido\doido1\obj\Debug\net9.0\doido1.sourcelink.json
