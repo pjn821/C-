@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doido1", "doido1.csproj", "{E87FEBC7-27B2-9338-4CBA-1C95E07797CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadores", "operadores.csproj", "{D72A5298-EE89-9EFA-CDB8-EF5281542D4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E87FEBC7-27B2-9338-4CBA-1C95E07797CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E87FEBC7-27B2-9338-4CBA-1C95E07797CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E87FEBC7-27B2-9338-4CBA-1C95E07797CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E87FEBC7-27B2-9338-4CBA-1C95E07797CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72A5298-EE89-9EFA-CDB8-EF5281542D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72A5298-EE89-9EFA-CDB8-EF5281542D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72A5298-EE89-9EFA-CDB8-EF5281542D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72A5298-EE89-9EFA-CDB8-EF5281542D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {34A29A05-6219-40B6-8F34-5B99B50DB383}
+		SolutionGuid = {5189E10B-32D5-4EA7-8879-1F6438D004A6}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.sourcelink.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\bin\Debug\net9.0\operadores.exe
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\bin\Debug\net9.0\operadores.deps.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\bin\Debug\net9.0\operadores.runtimeconfig.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\bin\Debug\net9.0\operadores.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\bin\Debug\net9.0\operadores.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\refint\operadores.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\operadores.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadores\obj\Debug\net9.0\ref\operadores.dll

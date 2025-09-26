@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\doido1\\doido1.csproj",
-      "projectName": "doido1",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\doido1\\doido1.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\operadores\\operadores.csproj",
+      "projectName": "operadores",
+      "projectPath": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\operadores\\operadores.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\doido1\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Desktop\\Projetos\\doido\\operadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
