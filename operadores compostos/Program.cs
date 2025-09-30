@@ -6,7 +6,7 @@ calorias = Convert.ToInt32(Console.ReadLine());
 
 // verificar calorias 
 
-if (calorias > 1200 && calorias < 1900)
+if (calorias >= 1200 && calorias <= 1900)
 {
     Console.WriteLine("Dentro da faixa");
 }
