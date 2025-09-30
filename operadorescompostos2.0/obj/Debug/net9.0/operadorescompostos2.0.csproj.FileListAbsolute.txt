@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\bin\Debug\net9.0\operadorescompostos2.0.exe
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\bin\Debug\net9.0\operadorescompostos2.0.deps.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\bin\Debug\net9.0\operadorescompostos2.0.runtimeconfig.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\bin\Debug\net9.0\operadorescompostos2.0.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\bin\Debug\net9.0\operadorescompostos2.0.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.sourcelink.json
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\refint\operadorescompostos2.0.dll
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\operadorescompostos2.0.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Projetos\doido\operadorescompostos2.0\obj\Debug\net9.0\ref\operadorescompostos2.0.dll
