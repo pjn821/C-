@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\bin\Debug\net9.0\comando while.exe
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\bin\Debug\net9.0\comando while.deps.json
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\bin\Debug\net9.0\comando while.runtimeconfig.json
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\bin\Debug\net9.0\comando while.dll
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\bin\Debug\net9.0\comando while.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.sourcelink.json
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.dll
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\refint\comando while.dll
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\comando while.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Projetos\doido\comando while\obj\Debug\net9.0\ref\comando while.dll
