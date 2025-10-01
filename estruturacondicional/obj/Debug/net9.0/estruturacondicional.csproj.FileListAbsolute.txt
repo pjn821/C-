@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.sourcelink.json
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\bin\Debug\net9.0\estruturacondicional.exe
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\bin\Debug\net9.0\estruturacondicional.deps.json
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\bin\Debug\net9.0\estruturacondicional.runtimeconfig.json
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\bin\Debug\net9.0\estruturacondicional.dll
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\bin\Debug\net9.0\estruturacondicional.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.dll
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\refint\estruturacondicional.dll
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.pdb
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\estruturacondicional.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Projetos\doido\estruturacondicional\obj\Debug\net9.0\ref\estruturacondicional.dll
