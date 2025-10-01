@@ -23,3 +23,5 @@ nota4 = Convert.ToDouble(Console.ReadLine());
 media = (nota1 + nota2 + nota3 + nota4) / 4;
 
 Console.WriteLine("\nMédia: " + media);
+
+
